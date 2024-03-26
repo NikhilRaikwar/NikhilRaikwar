@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Open Source Projects  <br>👯 I’m looking to collaborate on Hackathons & Open Source Projects  <br>🌱 I’m currently learning DevOps and web3 for blockchain development. Also diving deep into full stack development.
+🔭 I’m currently working on Open Source Projects  <br>👯 I’m looking to collaborate on Hackathons & Open Source Projects  <br>🌱 I’m currently learning web3 for blockchain development. Also diving deep into full stack development.
 
 
 ## 🌐 Socials:
