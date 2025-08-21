@@ -1,9 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Open Source Projects  <br>👨🏻‍💻 I’m looking to collaborate on Hackathons & Open Source Projects  <br>🌱 I’m currently learning web3 for blockchain development. Also diving deep into full stack development.<br> 💬  Ask me about:
-- **Full Stack Development**: Whether you're curious about building dynamic web applications, backend services, or crafting beautiful user interfaces, I'm here to share insights and tips on full stack development.
-- **Open Source Contributions**: Want to know how to get started with open source projects, collaborate effectively, or contribute to web3 development? Feel free to ask, and let's dive into the exciting world of open source!
+Hi! I’m Nikhil, a Full Stack Developer with 3+ years of experience building scalable Web3 and AI products, collaborating on open-source projects, and shipping solutions for the next era of the web.
 
-
+- 🌍 **Location:** Bhopal, Madhya Pradesh, India  
+- 💼 **Role:** Full Stack Web3/AI Developer (Freelance & Open Source)  
+- 🎯 **Areas:** Blockchain, AI, DApps, Automation, Analytics  
+- 🤝 **Community:** Always open to collaborating on hackathons, open-source, and freelance opportunities  
+- 🏆 **Achievements:** Winner – bitsCrunch Hackathon: Unlocking the Future with Web3 Data
+- 🚀 **Portfolio:** [nikhilraikwar.vercel.app](https://nikhilraikwar.vercel.app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhilraikwar_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilraikwar16) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NikhilRaikwar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15979423) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NikhilRaikwarr) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/nikhilraikwar) 
