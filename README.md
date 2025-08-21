@@ -1,9 +1,9 @@
-# 💫 About Me:
+# 💫 About Me
 Hi! I’m Nikhil, a Full Stack Developer with 3+ years of experience building scalable Web3 and AI products, collaborating on open-source projects, and shipping solutions for the next era of the web.
 
 - 🌍 **Location:** Bhopal, Madhya Pradesh, India  
 - 💼 **Role:** Full Stack Web3/AI Developer (Freelance & Open Source)  
-- 🎯 **Areas:** Blockchain, AI, DApps, Automation, Analytics  
+- 🎯 **Areas:** Full Stack Development, Web3 Development, AI & LLMs, Automation, Open Source, Technical Writing, Blockchain Integration
 - 🤝 **Community:** Always open to collaborating on hackathons, open-source, and freelance opportunities  
 - 🏆 **Achievements:** Winner – bitsCrunch Hackathon: Unlocking the Future with Web3 Data
 - 🚀 **Portfolio:** [nikhilraikwar.vercel.app](https://nikhilraikwar.vercel.app)
