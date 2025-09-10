@@ -5,7 +5,7 @@ Hi! I’m Nikhil, a Full Stack Developer with 3+ years of experience building sc
 - 💼 **Role:** Full Stack Web3/AI Developer (Freelance & Open Source)  
 - 🎯 **Areas:** Full Stack Development, Web3 Development, AI & LLMs, Automation, Open Source, Technical Writing, Blockchain Integration
 - 🤝 **Community:** Always open to collaborating on hackathons, open-source, and freelance opportunities  
-- 🏆 **Achievements:** Winner – bitsCrunch Hackathon: Unlocking the Future with Web3 Data
+- 🏆 **Achievements:** Winner – bitsCrunch Hackathon: Unlocking the Future with Web3 Data & bitsCrunch x AI Builders Hack 2025
 - 🚀 **Portfolio:** [nikhilraikwar.vercel.app](https://nikhilraikwar.vercel.app)
 
 ## 🌐 Socials:
