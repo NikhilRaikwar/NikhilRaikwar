@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi! I’m Nikhil, a Full Stack Developer with 3+ years of experience building scalable Web3 and AI products, collaborating on open-source projects, and shipping solutions for the next era of the web.
+Hi! I’m Nikhil, a Full Stack Developer with 2+ years of experience building scalable Web3 and AI products, collaborating on open-source projects, and shipping solutions for the next era of the web.
 
 - 🌍 **Location:** Bhopal, Madhya Pradesh, India  
 - 💼 **Role:** Full Stack Web3/AI Developer (Freelance & Open Source)  
