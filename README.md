@@ -115,7 +115,7 @@ I'm a passionate **Full Stack Developer** with **2+ years** of experience buildi
 - ⭐ **Winner:** bitsCrunch x AI Builders Hack 2025
 - 📚 **Participant:** Encode Club Solana Winter School
 - 🚀 **Active Contributor:** Superteam Earn, Open-source bounty programs
-- 💪 **100+ GitHub Repositories** with consistent contributions
+- 💪 **50+ GitHub Repositories** with consistent contributions
 
 ---
 
