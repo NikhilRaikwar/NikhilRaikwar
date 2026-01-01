@@ -78,12 +78,16 @@ I'm a passionate **Full Stack Developer** with **2+ years** of experience buildi
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikhilRaikwar&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilRaikwar&theme=react&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NikhilRaikwar&show_icons=true&theme=react&hide=contribs,prs&show=reviews,discussions_started&rank_icon=github&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilRaikwar&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilRaikwar&theme=react&layout=compact&hide_progress=false&hide_border=false&langs_count=10" />
+</div>
+
+<div align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=NikhilRaikwar&theme=react&hide_border=true" />
+</div>hub-readme-streak-stats.herokuapp.com/?user=NikhilRaikwar&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
