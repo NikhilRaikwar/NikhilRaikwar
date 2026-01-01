@@ -77,18 +77,9 @@ I'm a passionate **Full Stack Developer** with **2+ years** of experience buildi
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NikhilRaikwar&show_icons=true&theme=react&hide=contribs,prs&show=reviews,discussions_started&rank_icon=github&border_radius=10" />
-</div>
-
-<div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilRaikwar&theme=react&layout=compact&hide_progress=false&hide_border=false&langs_count=10" />
-</div>
-
-<div align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=NikhilRaikwar&theme=react&hide_border=true" />
-</div>hub-readme-streak-stats.herokuapp.com/?user=NikhilRaikwar&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=NikhilRaikwar&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikhilRaikwar&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRaikwar&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
