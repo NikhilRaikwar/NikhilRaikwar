@@ -73,13 +73,7 @@ I'm a passionate **Full Stack Developer** with **2+ years** of experience buildi
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=NikhilRaikwar&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikhilRaikwar&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRaikwar&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
