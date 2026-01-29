@@ -15,6 +15,16 @@
 
 > Building the future of Web3 – shipping decentralized applications, AI-powered tools, and blockchain solutions at lightning speed. After 2+ years in the Web3 space, I'm passionate about making blockchain accessible to everyone.
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilraikwar16)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/NikhilRaikwarr)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NikhilRaikwar)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://nikhilraikwar.vercel.app)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@NikhilRaikwar)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nikhilraikwar_18)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/nikhilraikwar)
+
 ## Current Projects
 
 - 💰 **[StackPay](https://github.com/NikhilRaikwar/StackPay)** - Decentralized payment solution for seamless crypto transactions with multi-chain support
@@ -62,15 +72,11 @@
 **DevOps & Cloud**
 - Vercel, AWS, Google Cloud, Docker, Git, GitHub
 
-## Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/-Nikhil_Raikwar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilraikwar16)
-[![Twitter](https://img.shields.io/badge/-@NikhilRaikwarr-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/NikhilRaikwarr)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NikhilRaikwar)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://nikhilraikwar.vercel.app)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@NikhilRaikwar)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nikhilraikwar_18)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/nikhilraikwar)
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/NikhilRaikwar)
 
 ---
 
