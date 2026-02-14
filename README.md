@@ -27,6 +27,7 @@
 
 ## Current Projects
 
+- 🌐 **[SocialENS](https://github.com/NikhilRaikwar/SocialENS)** - SocialENS, the first truly sovereign social protocol where your identity and data are owned 100% by you.
 - 💰 **[StackPay](https://github.com/NikhilRaikwar/StackPay)** - Decentralized payment solution for seamless crypto transactions with multi-chain support
 - 🎲 **[MNEEBet](https://github.com/NikhilRaikwar/MNEEBet)** - Peer-to-peer betting platform using MNEE stablecoin on blockchain
 - 📊 **[NFTVision](https://github.com/NikhilRaikwar/NFTVision)** - Comprehensive NFT market analytics platform with real-time insights across multiple blockchains
@@ -42,7 +43,7 @@
 - 🌍 **Contributing to BuidlGuidl** - Building and shipping decentralized applications, creating open-source tools and educational content for the Web3 community
 - 🔨 **Building Web3 Tools** - Creating innovative blockchain solutions that bridge traditional and decentralized ecosystems
 - 🤝 **Open Source Contributor** - Actively contributing to Web3 projects and participating in hackathons
-- 🏆 **Hackathon Winner** - bitsCrunch Hackathon 2025 & bitsCrunch x AI Builders Hack 2025
+- 🏆 **Hackathon Winner** - ETH HackMoney 2026, bitsCrunch Hackathon 2025 & bitsCrunch x AI Builders Hack 2025
 
 ## Experience
 
@@ -82,6 +83,7 @@
 
 ### Recognition
 
+- 🏆 Winner - ETH HackMoney 2026
 - 🏆 Winner - bitsCrunch Hackathon 2025: "Unlocking the Future with Web3 Data"
 - 🏆 Winner - bitsCrunch x AI Builders Hack 2025
 - 📚 Participant - Encode Club Solana Winter School
