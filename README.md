@@ -32,6 +32,32 @@ I use **Claude Code, Codex, and Cursor** as primary development tools for implem
 
 ## Featured AI Projects
 
+### [PlanProof](https://github.com/NikhilRaikwar/PlanProof) · [Live](https://planproof.nikhilraikwar.me) · [Demo](https://planproof.nikhilraikwar.me/demo)
+
+**Deterministic execution firewall for AI coding agents.**
+
+Verifies AI-generated engineering plans against live GitHub repository state using strict AST static analysis, runtime preflight checks, and deterministic evidence rules before high-consequence code changes execute.
+
+- **Dual-Model Verification Architecture:** Claude 3.5 Sonnet performs structural and semantic analysis while GPT-4o-mini runs bounded adversarial validation; deterministic software engines retain final authority over run pass/fail decisions
+- **Deterministic AST & Tree-Sitter Grounding:** Cross-checks proposed diffs against repository ASTs, imports, exported call graphs, and file boundaries with zero model hallucinations allowed
+- **Async Distributed Pipeline:** FastAPI orchestration with Dramatiq worker pools on Google Cloud Run, Redis Memorystore task queues, and MongoDB Atlas ACID-isolated run telemetry
+- **Enterprise-Grade Security:** GitHub App signed webhook auth (RSA-SHA256), host-only strict cookies, token bucket rate limiting (10 runs/min), concurrent project run caps, and zero plain-text secret storage
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Claude 3.5 Sonnet](https://img.shields.io/badge/-Claude%203.5%20Sonnet-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/-Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Dramatiq](https://img.shields.io/badge/-Dramatiq-EE4C2C?style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![GitHub App API](https://img.shields.io/badge/-GitHub%20App-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
 ### [Counter](https://github.com/NikhilRaikwar/Counter) · [Live](https://counter.nikhilraikwar.me) · [Demo](https://counter.nikhilraikwar.me/demo)
 
 **AI-native negotiation checkout built around Razorpay.**
@@ -196,52 +222,52 @@ I prefer using the LLM for **ambiguity, language, planning, and interpretation**
 ### Applied AI & Agent Engineering
 
 ![LLM Agents](https://img.shields.io/badge/-LLM%20Agents-5B5BD6?style=flat-square)
-![LangGraph](https://img.shields.io/badge/-LangGraph-111111?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude 3.5 Sonnet](https://img.shields.io/badge/-Claude%203.5%20Sonnet-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-6C47FF?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-111111?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Tool Calling](https://img.shields.io/badge/-Tool%20Calling-2563EB?style=flat-square)
 ![Structured Outputs](https://img.shields.io/badge/-Structured%20Outputs-0F766E?style=flat-square)
-![Context & Retrieval](https://img.shields.io/badge/-Context%20%26%20Retrieval-7C3AED?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-DB2777?style=flat-square)
 ![Deterministic Guardrails](https://img.shields.io/badge/-Deterministic%20Guardrails-DC2626?style=flat-square)
+![AST Code Verification](https://img.shields.io/badge/-AST%20Code%20Verification-10B981?style=flat-square)
 ![Failure-Mode Testing](https://img.shields.io/badge/-Failure--Mode%20Testing-92400E?style=flat-square)
 
-### Backend & Data
+### Backend & Distributed Systems
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Dramatiq Workers](https://img.shields.io/badge/-Dramatiq%20Workers-EE4C2C?style=flat-square)
+![Redis Memorystore](https://img.shields.io/badge/-Redis%20Memorystore-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-0F172A?style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Async Workflows](https://img.shields.io/badge/-Async%20Workflows-0369A1?style=flat-square)
-![Webhooks](https://img.shields.io/badge/-Webhooks-475569?style=flat-square)
+![Signed Webhooks](https://img.shields.io/badge/-Signed%20Webhooks%20%28HMAC%2FRSA%29-475569?style=flat-square)
 
 ### Frontend & Product
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TanStack Start](https://img.shields.io/badge/-TanStack%20Start-FF4154?style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-### Delivery & Infrastructure
+### Cloud, Infrastructure & Observability
 
+![Google Cloud Run](https://img.shields.io/badge/-Google%20Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![API Integrations](https://img.shields.io/badge/-API%20Integrations-2563EB?style=flat-square)
-![Testing](https://img.shields.io/badge/-Regression%20%26%20Adversarial%20Testing-16A34A?style=flat-square)
+![GitHub Actions CI](https://img.shields.io/badge/-GitHub%20Actions%20CI-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Testing](https://img.shields.io/badge/-Automated%20%26%20Adversarial%20Testing-16A34A?style=flat-square)
 
 ### AI-First Development
 
